@@ -1,6 +1,6 @@
 # TDBenchmarker
 
-Source code of the TD Benchmarker tool.
+Source code of the TD Benchmarker tool. The tool is hosted [here](http://195.251.210.147:3838/).
 
 TD Benchmarker toolbox is an interactive web-based application implemented using Shiny framework taking advantage of the R statistical language in an easy-to-use frontend. The toolbox supports a fully automated investigation of the degree of agreement between three leading TD assessment tools. Moreover, TD Benchmarker provides a general framework to capture the diversity of the examined tools with the aim of identifying few 'reference assessments' representing different profiles of classes with respect to their TD levels. After the characterization of the derived reference assessments, the goal is to extract a set of classes presenting high similarity to the Max-Ruler reference assessment. The Max Ruler reference assessment represents the profile of classes accumulating high amount of TD based on the results of all applied tools.
 
