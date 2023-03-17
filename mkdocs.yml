@@ -1,0 +1,5 @@
+site_name: TD Benchmarker
+repo_url: https://github.com/XAI-toolkit/TDBenchmarker
+
+nav:
+  - TD Benchmarker: 'index.md'

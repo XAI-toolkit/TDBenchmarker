@@ -1,0 +1,5 @@
+site_name: SmartCLIDE Service Creation Testing Frontend Component
+repo_url: https://github.com/XAI-toolkit/TDBenchmarker
+
+nav:
+  - TD Benchmarker: 'index.md'
